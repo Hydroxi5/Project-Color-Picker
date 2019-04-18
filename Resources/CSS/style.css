@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+}
+div {
+  height: 25px;
+  border: 2px solid black;
+}
+#Red {
+  background-color: Red;
+}
+#Orange {
+  background-color: Orange;
+}
+#Yellow {
+  background-color: Yellow;
+}
+#Green {
+  background-color: Green;
+}
+#Blue {
+  background-color: Blue;
+}
+#Purple {
+  background-color: Purple;
+}
