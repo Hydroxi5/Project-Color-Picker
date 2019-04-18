@@ -1,25 +1,79 @@
 body {
-  background-color: white;
+  background-color: lightgrey;
 }
-div {
-  height: 25px;
-  border: 2px solid black;
+p {
+  text-align: center;
+  margin: 0 auto;
 }
 #Red {
+  color: Red;
+  background-color: Grey;
+  height: 25px;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 25px;
+}
+#Red:hover {
+  color: Black;
   background-color: Red;
 }
 #Orange {
+  color: Orange;
+  background-color: Grey;
+  height: 25px;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 25px;
+}
+#Orange:hover {
+  color: Black;
   background-color: Orange;
 }
 #Yellow {
+  color: Yellow;
+  background-color: Grey;
+  height: 25px;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 25px;
+}
+#Yellow:hover {
+  color: Black;
   background-color: Yellow;
 }
 #Green {
+  color: Green;
+  background-color: Grey;
+  height: 25px;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 25px;
+}
+#Green:hover {
+  color: Black;
   background-color: Green;
 }
 #Blue {
+  color: Blue;
+  background-color: Grey;
+  height: 25px;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 25px;
+}
+#Blue:hover {
+  color: Black;
   background-color: Blue;
 }
 #Purple {
+  color: Purple;
+  background-color: Grey;
+  height: 25px;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 25px;
+}
+#Purple:hover {
+  color: Black;
   background-color: Purple;
 }
